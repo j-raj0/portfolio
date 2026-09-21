@@ -48,8 +48,8 @@ const PROJECTS = [
     title:"PICTOGRAPH", intro:[PICTO_ABOUT, PICTO_ABOUT_2],
     sections:[
       { heading:"BRAINSTORMING", body:[PICTO_BRAINSTORMING] },
-      { heading:"SKETCHING", images:["images/sketch1.png", "images/sketch2.png"], body:[PICTO_SKETCHING] },
-      { heading:"REFINEMENT", images:["images/final.png"], body:[PICTO_REFINEMENT] }
+      { heading:"SKETCHING", images:["images/sketch1.PNG", "images/sketch2.PNG"], body:[PICTO_SKETCHING] },
+      { heading:"REFINEMENT", images:["images/final.PNG"], body:[PICTO_REFINEMENT] }
     ]
   }
 ];
