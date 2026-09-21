@@ -49,7 +49,7 @@ const PROJECTS = [
     sections:[
       { heading:"BRAINSTORMING", body:[PICTO_BRAINSTORMING] },
       { heading:"SKETCHING", images:["images/sketch1.png", "images/sketch2.png"], body:[PICTO_SKETCHING] },
-      { heading:"REFINEMENT", images:["images/double ultra final.png"], body:[PICTO_REFINEMENT] }
+      { heading:"REFINEMENT", images:["images/final.png"], body:[PICTO_REFINEMENT] }
     ]
   }
 ];
