@@ -51,6 +51,11 @@ const PROJECTS = [
       { heading:"SKETCHING", images:["images/sketch1.PNG", "images/sketch2.PNG"], body:[PICTO_SKETCHING] },
       { heading:"REFINEMENT", images:["images/final.PNG"], body:[PICTO_REFINEMENT] }
     ]
+    title:"ELEMENTS OF ART & PRINCIPLES OF DESIGN - TYPEFORM", intro:[LOREM_A]
+    sections:[
+      { heading:"BRAINSTORMING", body:[LOREM_B] }
+      { heading:"IDK", body:[LOREM_C]}
+    ]
   }
 ];
 
